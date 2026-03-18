@@ -1,3 +1,29 @@
+# _config.yml
+# This file tells Jekyll (the software that builds your site) how to behave.
+# It contains global settings for your website.
+
+# Theme: The visual style of your site. 
+# 'jekyll-theme-minimal' is clean and focuses on content.
 theme: jekyll-theme-minimal
+
+# Site Information
 title: Jonnie Barnsley
-description: My academic life online
+description: Academic life online
+
+# Personal Information (You can use these throughout your site)
+# We can refer to these as {{ site.author_name }} or {{ site.email }} in our pages.
+author_name: Jonnie Barnsley
+email: j.barnsley@university.edu # Replace with your actual email
+location: University of Someplace, UK
+
+# Social Links (Some themes use these automatically)
+# If your theme supports it, it might show a GitHub icon.
+github_username: jonniebarnsley
+
+# Navigation: Not all themes support this automatically in _config.yml,
+# but it's a good place to keep the list for us to use later.
+nav_links:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects
