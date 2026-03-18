@@ -16,30 +16,20 @@ Tipping elements in the Antarctic ice sheet could lead to irreversible sea level
 
 ---
 
-**Sea level rise to 2300**
+**SSP5-8.5 surface mass balance**
 
-![High-res Plot](/assets/plots/scenario_slc.svg)
-*Figure: Sea level contribution in each ensemble member up to 2300 with box-and-whisker plots for each scenario. Dots indicate outliers more than 1.5 x IQR from the median.*
+CESM2-WACCM has extremely high negative surface mass balance in SSP5-8.5, driven by a very high runoff. This is concentrated around the perimeter of the ice sheet, but extends over the major ice shelves, the Antarctic peninsula, and the Siple coast.
 
----
+![High-res Plot](/assets/plots/smb_anomaly_maps.svg)
 
-**SSP1-2.6 vs SSP5-3.4-over**
-
-![High-res Plot](/assets/plots/ssp126_vs_534.svg)
-*Figure: Antarctic sea level contribution at 2300 in SSP1-2.6 against that in the overshoot scenario.*
+*Figure: SSP5-8.5 Surface mass balance anomaly at 2300 in each climate model.*
 
 ---
 
-**Forcing**
+**Comparison with observations**
 
-![High-res Plot](/assets/plots/smb_anomaly.svg)
-*Figure: Antarctic mean surface mass balance anomaly (10 yr rolling mean) in each scenario and forcing climate model.*
+The mean sea level contribution over the observational period lies slightly below the IMBIE range for the same period. The choice of scenario (which diverge after 2015) has little effect on the 2021 sea level contribution, but the choice of forcing GCM is a strong control.
 
-![High-res Plot](/assets/plots/thermal_forcing.svg)
-*Figure: Mean thermal forcing anomaly in marine sectors of Antarctica at 750 m depth in each scenario and forcing climate model.*
+![High-res Plot](/assets/plots/ensemble_kde.svg)
+*Figure: Sea level contribution over the observational period (2007-2021), with kernel density estimates broken down by scenario and by forcing GCM. The IMBIE range for the same period is highlighted in red.*
 
-### Context and Findings
-
-<!-- You can explain the project in more detail here. -->
-
-The research aims to understand the long-term effects of X on Y within the context of **[Your Specific Focus]**. Our findings suggest that...
