@@ -27,7 +27,3 @@ nav_links:
     url: /
   - title: Projects
     url: /projects
-
-header_pages:
-  - about.md
-  - projects.md
