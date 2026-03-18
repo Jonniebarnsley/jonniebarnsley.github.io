@@ -11,9 +11,8 @@ On this page, I host supplementary material for my research, including posters, 
 
 ## Recent Work
 
-1.  **[Poster 2026: The Effects of X on Y](/projects/ismip7-copenhagen-2026)**
-    - Presented at the *International Conference of Research*.
-    - Contains additional animations and high-res plots.
+1.  **[Antarctic multi-century sea level contribution after an overshoot of the 2°C Paris target](/projects/ismip7-copenhagen-2026)**
+    - Poster at the *ISMIP7 meeting* in Copenhagen, March 2026.
 
 2.  **Project Two** (Coming Soon)
     - Description of another ongoing project.

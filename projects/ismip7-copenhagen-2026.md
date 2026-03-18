@@ -12,7 +12,7 @@ This page provides supplementary material to accompany the poster I presented at
 
 ### Abstract
 
-Tipping elements in the Antarctic ice sheet could lead to irreversible sea level rise over the coming centuries. With global emissions rising, a climate ‘overshoot’ – temporarily exceeding  the Paris 2 °C target – appears increasingly likely. Whether an overshoot would cause tipping in Antarctica remains unclear. We explore uncertainty in Antarctica’s sea level contribution using the BISICLES ice sheet model, forced by four climate models that have completed an overshoot experiment peaking in 2040. Results are compared with a low-emissions pathway that remains below 2 °C (SSP1-2.6) and a high-emissions pathway with unabated emissions (SSP5-8.5).
+Tipping elements in the Antarctic ice sheet could lead to irreversible sea level rise over the coming centuries. With global emissions rising, a climate ‘overshoot’ – temporarily exceeding  the Paris 2°C target – appears increasingly likely. Whether an overshoot would cause tipping in Antarctica remains unclear. We explore uncertainty in Antarctica’s sea level contribution using the BISICLES ice sheet model, forced by four climate models that have completed an overshoot experiment peaking in 2040. Results are compared with a low-emissions pathway that remains below 2 °C (SSP1-2.6) and a high-emissions pathway with unabated emissions (SSP5-8.5).
 
 ---
 
@@ -33,3 +33,4 @@ The mean sea level contribution over the observational period lies slightly belo
 ![High-res Plot](/assets/plots/ensemble_kde.svg)
 *Figure: Sea level contribution over the observational period (2007-2021), with kernel density estimates broken down by scenario and by forcing GCM. The IMBIE range for the same period is highlighted in red.*
 
+[Back to Projects](/projects)
