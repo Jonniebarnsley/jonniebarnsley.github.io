@@ -1,7 +1,5 @@
 ---
-# Front Matter
-# 'layout: default' ensures the same theme is used here.
-layout: default
+layout: page
 title: Projects
 ---
 
