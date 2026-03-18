@@ -2,7 +2,7 @@
 # Front Matter
 # Using 'layout: project' now automates the title and the "Back" links.
 layout: project
-title: Poster 2026: The Effects of X on Y
+title: Poster 2026 The Effects of X on Y
 date: 2026-03-18
 ---
 
@@ -12,25 +12,13 @@ This page provides supplementary material to accompany the poster I presented at
 
 ---
 
-## Additional Animations
-
-<!-- This is how you embed a GIF or a video. -->
-
-**Figure A: The dynamic interaction of X and Y.**
-
-![Animation Description](/assets/images/animation-placeholder.gif)
-
-*Caption: This animation shows the interaction over 100 iterations.*
-
----
-
 ## High-Resolution Plots
 
 <!-- You can include static images (plots) that are too big for a poster. -->
 
 **Figure B: Detailed analysis of Z.**
 
-![High-res Plot](/assets/images/plot-placeholder.png)
+![High-res Plot](/assets/plots/scenario_slc.png)
 
 *Caption: This plot illustrates the relationship between Z and the time variable.*
 
