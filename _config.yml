@@ -8,13 +8,13 @@ theme: jekyll-theme-minimal
 
 # Site Information
 title: Jonnie Barnsley
-description: Academic life online
+description: PhD researcher at King's College London.
 
 # Personal Information (You can use these throughout your site)
 # We can refer to these as {{ site.author_name }} or {{ site.email }} in our pages.
 author_name: Jonnie Barnsley
-email: j.barnsley@university.edu # Replace with your actual email
-location: University of Someplace, UK
+email: jonathan.barnsley@kcl.ac.uk # Replace with your actual email
+location: King's College London, UK
 
 # Social Links (Some themes use these automatically)
 # If your theme supports it, it might show a GitHub icon.
@@ -27,3 +27,7 @@ nav_links:
     url: /
   - title: Projects
     url: /projects
+
+header_pages:
+  - about.md
+  - projects.md
