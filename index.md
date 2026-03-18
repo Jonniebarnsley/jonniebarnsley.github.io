@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Home
 ---
 
@@ -8,9 +8,9 @@ title: Home
 I am final year PhD student at **King's College London**, where I focus on the effects of **climate change** on the Antarctic ice sheet. I use numerical models and machine learning to explore the **uncertainty** in future sea level projections, so that we can better prepare for the effects of rising sea level on coastal communities.
 
 ## Research Interests
-- **Interest 1**: Interface of numerical models and machine learning.
-- **Interest 2**: Ice-ocean interactions.
-- **Interest 3**: Tipping elements in the climate system.
+- Interface of numerical models and machine learning.
+- Ice-ocean interactions.
+- Tipping elements in the climate system.
 
 ---
 

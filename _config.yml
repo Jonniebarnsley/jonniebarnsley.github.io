@@ -19,11 +19,3 @@ location: King's College London, UK
 # Social Links (Some themes use these automatically)
 # If your theme supports it, it might show a GitHub icon.
 github_username: jonniebarnsley
-
-# Navigation: Not all themes support this automatically in _config.yml,
-# but it's a good place to keep the list for us to use later.
-nav_links:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects

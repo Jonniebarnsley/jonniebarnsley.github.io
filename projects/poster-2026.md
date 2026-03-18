@@ -1,9 +1,8 @@
 ---
 # Front Matter
 # Using 'layout: project' now automates the title and the "Back" links.
-layout: project
-title: Poster 2026 The Effects of X on Y
-date: 2026-03-18
+layout: default
+title: ISMIP7 Copenhagen 2026
 ---
 
 <!-- This is where you would link people from a QR code on your poster! -->
