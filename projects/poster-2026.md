@@ -1,10 +1,10 @@
 ---
 # Front Matter
-layout: default
-title: Poster 2026
+# Using 'layout: project' now automates the title and the "Back" links.
+layout: project
+title: Poster 2026: The Effects of X on Y
+date: 2026-03-18
 ---
-
-# Poster 2026: The Effects of X on Y
 
 <!-- This is where you would link people from a QR code on your poster! -->
 
@@ -41,7 +41,3 @@ This page provides supplementary material to accompany the poster I presented at
 <!-- You can explain the project in more detail here. -->
 
 The research aims to understand the long-term effects of X on Y within the context of **[Your Specific Focus]**. Our findings suggest that...
-
----
-
-[Back to Projects](/projects) | [Home](/)
