@@ -26,3 +26,5 @@ The mean sea level contribution over the observational period lies slightly belo
 
 ![High-res Plot](/projects/ismip7-2026/figures/ensemble_kde.svg)
 *Figure: Sea level contribution over the observational period (2007-2021), with kernel density estimates broken down by scenario and by forcing GCM. The IMBIE range for the same period is highlighted in red.*
+
+[Back to poster](/projects/ismip7-2026/main)
