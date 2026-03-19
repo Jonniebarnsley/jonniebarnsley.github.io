@@ -8,7 +8,7 @@ theme: jekyll-theme-minimal
 
 # Site Information
 title: Jonnie Barnsley
-description: PhD researcher at King's College London.
+description: PhD student at King's College London.
 
 # Personal Information (You can use these throughout your site)
 # We can refer to these as {{ site.author_name }} or {{ site.email }} in our pages.
