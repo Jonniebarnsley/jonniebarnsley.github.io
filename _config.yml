@@ -6,7 +6,8 @@
 # 'jekyll-theme-minimal' is clean and focuses on content.
 theme: jekyll-theme-minimal
 
-logo: assets/images/me.png # Path to your profile photo (relative to the root of your site)
+# Download buttons - not applicable
+show_downloads: false
 
 # Site Information
 title: Jonnie Barnsley
