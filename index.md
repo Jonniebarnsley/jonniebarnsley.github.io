@@ -18,6 +18,7 @@ I am final year PhD student at **King's College London**, where I study the effe
 
 - **Email**: [{{ site.email }}](mailto:{{ site.email }})
 - **GitHub**: [@{{ site.github_username }}](https://github.com/{{ site.github_username }})
+- **Linkedin**: [@jonniebarnsley](https://linkedin.com/in/jonniebarnsley)
 
 ---
 
