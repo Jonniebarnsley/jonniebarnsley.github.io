@@ -6,7 +6,7 @@ title: ISMIP7 2026
 
 ## Antarctic mult-century sea level contribution after an overshoot of the 2°C Paris target
 
-This page contains material from the poster I presented at the **ISMIP7 meeting** in Copenhagen, March 2026.
+This page contains material from the poster I presented at the **ISMIP7 workshop** in Copenhagen, March 2026.
 
 ---
 
