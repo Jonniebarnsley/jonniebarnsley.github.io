@@ -24,13 +24,13 @@ CESM2-WACCM has extremely high negative surface mass balance in SSP5-8.5, driven
 
 The West-Antarctic sea level contribution over the observational period is in good agreement with IMBIE 2007-2021. However, the ensemble systematically underestimates East-Antarctic sea level contribution and overestimates Antarctic Peninsula sea level contribution. This is relatively independant of the scenario (which diverge only after 2015), but is highly dependant on the forcing GCM.
 
-![High-res Plot](/projects/ismip7-2026/figures/WAIS_sle.svg)
+![High-res Plot](/projects/agu-2026/figures/WAIS_sle.svg)
 *Figure: Sea level contribution from West Antarctica over the observational period (2007-2021), with kernel density estimates broken down by scenario and by forcing GCM. The IMBIE range for the same period is highlighted in red.*
 
-![High-res Plot](/projects/ismip7-2026/figures/EAIS_sle.svg)
+![High-res Plot](/projects/agu-2026/figures/EAIS_sle.svg)
 *Figure: Sea level contribution from East Antarctica over the observational period (2007-2021), with kernel density estimates broken down by scenario and by forcing GCM. The IMBIE range for the same period is highlighted in red.*
 
-![High-res Plot](/projects/ismip7-2026/figures/APIS_sle.svg)
+![High-res Plot](/projects/agu-2026/figures/APIS_sle.svg)
 *Figure: Sea level contribution from the Antarctic Peninsula over the observational period (2007-2021), with kernel density estimates broken down by scenario and by forcing GCM. The IMBIE range for the same period is highlighted in red.*
 
 ---
