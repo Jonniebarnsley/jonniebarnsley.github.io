@@ -22,9 +22,17 @@ CESM2-WACCM has extremely high negative surface mass balance in SSP5-8.5, driven
 
 **Comparison with observations**
 
-The mean sea level contribution over the observational period lies slightly below the IMBIE range for the same period. The choice of scenario (which diverge after 2015) has little effect on the 2021 sea level contribution, but the choice of forcing GCM is a strong control.
+The West-Antarctic sea level contribution over the observational period is in good agreement with IMBIE 2007-2021. However, the ensemble systematically underestimates East-Antarctic sea level contribution and overestimates Antarctic Peninsula sea level contribution. This is relatively independant of the scenario (which diverge only after 2015), but is highly dependant on the forcing GCM.
 
-![High-res Plot](/projects/ismip7-2026/figures/ensemble_kde.svg)
-*Figure: Sea level contribution over the observational period (2007-2021), with kernel density estimates broken down by scenario and by forcing GCM. The IMBIE range for the same period is highlighted in red.*
+![High-res Plot](/projects/ismip7-2026/figures/WAIS_sle.svg)
+*Figure: Sea level contribution from West Antarctica over the observational period (2007-2021), with kernel density estimates broken down by scenario and by forcing GCM. The IMBIE range for the same period is highlighted in red.*
+
+![High-res Plot](/projects/ismip7-2026/figures/EAIS_sle.svg)
+*Figure: Sea level contribution from East Antarctica over the observational period (2007-2021), with kernel density estimates broken down by scenario and by forcing GCM. The IMBIE range for the same period is highlighted in red.*
+
+![High-res Plot](/projects/ismip7-2026/figures/APIS_sle.svg)
+*Figure: Sea level contribution from the Antarctic Peninsula over the observational period (2007-2021), with kernel density estimates broken down by scenario and by forcing GCM. The IMBIE range for the same period is highlighted in red.*
+
+---
 
 [Back to poster](/projects/ismip7-2026/main)
