@@ -4,6 +4,10 @@ layout: default
 title: AGU-Chapman 2026
 ---
 
+## Antarctic mult-century sea level contribution after an overshoot of the 2°C Paris target
+
+This page contains supplementary material to my poster at the **AGU Chapman conference on Sea Level Rise** in Montreal, June 2026.
+
 ### Climate forcing
 
 The ensemble includes forcing from four CMIP6 models with varying climate sensitivity. There is a wide range of surface mass balance in SSP5-8.5, from positive 2300 values (in MRI) to very negative (in CESM2). See the [supplementary](/projects/ismip7-2026/supplementary) from my poster at the *ISMIP7 2026* meeting for spatial plots. Overshoot surface mass balance is close to SSP1-2.6, but ocean forcing is slightly higher in some models.
@@ -68,3 +72,7 @@ Most GCMs are only slightly constrained by the calibration, but the MIROC ensemb
 
 ![High-res Plot](/projects/agu-2026/figures/projection_bands.svg)
 *Figure: Prior and posterior projections under each scenario and forcing GCM. Also provided is a 'combined GCM' distribution, which assumes a uniform prior over GCMs.*
+
+---
+
+[Back to poster](/projects/agu-2026/main)
